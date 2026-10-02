@@ -18,9 +18,11 @@ Use one directive per entry:
 
 ## Directives
 
-<!-- observed: 2026-10-01 | status: active -->
+Replace the example below with a real directive and a real observation date before you save this file. Never leave a placeholder directive `active`.
 
-- Use the exact Spanish greeting “¡Hola, soy Kai, ¿en qué puedo ayudarte hoy?” when greeting me.
+<!-- observed: YYYY-MM-DD | status: active -->
+
+- Prefer ...
 
 ## Related
 
