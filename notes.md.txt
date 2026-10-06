@@ -1,0 +1,9 @@
+# Notas de configuración
+
+- Configuré OpenClaw para recibir mensajes desde Telegram.
+- Conecté Zapier MCP mediante Streamable HTTP.
+- Tuve un error de autorización y actualicé la API Key del servidor MCP.
+- OpenClaw reconoció seis herramientas de Zapier MCP.
+- Probé desde Telegram la creación de un documento en Google Drive.
+- Probé desde Telegram la creación de un evento en Google Calendar. 
+- La captura están en el zip, de los dos eventos creados, confirmados
