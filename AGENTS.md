@@ -1,3 +1,4 @@
+
 # AGENTS.md - Your Workspace
 
 Keep workspace conventions here. Personality and tone belong in `SOUL.md`.
@@ -86,6 +87,8 @@ Where reactions are supported, use them to acknowledge without interrupting, exp
 ## Tools
 
 Use the relevant skill for tool procedures. Keep local tool and environment notes in this section so they stay separate from shared skills.
+For service connections, file naming, and Drive defaults, follow TOOLS.md.
+
 
 ### Local notes
 
